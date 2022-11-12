@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-12T08:04:17Z" name="Default suite" finished-at="2022-11-12T08:08:10Z" duration-ms="232859">
+    <groups>
+    </groups>
+    <test started-at="2022-11-12T08:04:17Z" name="Default test" finished-at="2022-11-12T08:08:10Z" duration-ms="232859">
+      <class name="makemytrip.makemytrip">
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:makemytrip.makemytrip@457c9034]" started-at="2022-11-12T13:34:17Z" name="beforetest" finished-at="2022-11-12T13:34:42Z" duration-ms="25507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method signature="test()[pri:0, instance:makemytrip.makemytrip@457c9034]" started-at="2022-11-12T13:34:42Z" name="test" finished-at="2022-11-12T13:38:09Z" duration-ms="207299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- makemytrip.makemytrip -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
